@@ -28,6 +28,3 @@ wikipedia==1.4.0
 
 # Streamlit
 streamlit==1.24.1
-
-# 
-　
